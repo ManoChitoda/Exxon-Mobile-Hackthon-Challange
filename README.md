@@ -8,4 +8,4 @@ This open challenge was from Exxon Mobil, who were open to what we can do with t
 
 We reorganize the given data and made better tables and relationships and avoid redundancy.
 
-OVERALL we saved 48% more space from what the original files had occupied.
+OVERALL we saved almost 48% of the space from what the original files had occupied.
