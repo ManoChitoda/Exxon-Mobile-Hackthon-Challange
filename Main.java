@@ -11,8 +11,8 @@ public class Main
         static final String DB_URL = "jdbc:mysql://localhost:3306/manohar";
 
         //  Database credentials
-        static final String USER = "root";
-        static final String PASS = "password";
+        static final String USER = "<username>";
+        static final String PASS = "<password>";
 
         static String names[] = new String[55];
 
