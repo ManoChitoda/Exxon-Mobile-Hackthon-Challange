@@ -8,7 +8,7 @@ public class Main
 {
         // JDBC driver name and database URL
         static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-        static final String DB_URL = "jdbc:mysql://localhost:3306/manohar";
+        static final String DB_URL = "jdbc:mysql://hostname:3306/database_name";
 
         //  Database credentials
         static final String USER = "<username>";
